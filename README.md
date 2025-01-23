@@ -1,3 +1,3 @@
 # mywebsites.com
 This is my first GIit Respository
-Author - raviranjan kumar yadav
+Author - raviranjan kumar yadav.
